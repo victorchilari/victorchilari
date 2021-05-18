@@ -1,14 +1,11 @@
-### Hi there 👋
-
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorchilari&count_private=true&show_icons=true)
 ]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorchilari&layout=compact)]
 
-[![Victor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=victorchilari)]
-
-
 <!--
+### Hi there 👋
+
 **victorchilari/victorchilari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
